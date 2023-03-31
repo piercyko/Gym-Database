@@ -4,10 +4,10 @@ Completed gym data model with corresponding subqueries related to efficient mana
 
 # TEAM: 21482_8 and Team Members
 
-- Claire Shur
+- Claire Shur (https://github.com/claireshur/Mist4610-Gym)
 -  Kole Piercy
--  Jade Naughton
--  Chris Richards
+-  Jade Naughton (https://github.com/jnaug0829/Group-Project-4610)
+-  Chris Richards (https://github.com/Chris-Richards3/MySQL-Project)
 -  Jack Mannion (https://github.com/JackMannion01/GymSQLDataBase)
 
 # Problem Description
